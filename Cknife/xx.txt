@@ -1,0 +1,99 @@
+-
+document.write("->|
+主机名:           BIGBROTH-Q2F040
+OS 名称:          Microsoft(R) Windows(R) Server 2003, Standard Edition
+OS 版本:          5.2.3790 Service Pack 1 Build 3790
+OS 制造商:        Microsoft Corporation
+OS 配置:          主域控制器
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     BigBrother
+注册的组织:       
+产品 ID:          69819-640-9722366-45659
+初始安装日期:     2018-3-2, 10:33:15
+系统启动时间:     0 天 0 小时 6 分 30 秒
+系统制造商:       VMware, Inc.
+系统型号:         VMware Virtual Platform
+系统类型:         X86-based PC
+处理器:           安装了 4 个处理器。
+                  [01]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+                  [02]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+                  [03]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+                  [04]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+BIOS 版本:        INTEL  - 6040000
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (GMT+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     2,047 MB
+可用的物理内存:   1,512 MB
+页面文件: 最大值: 3,944 MB
+页面文件: 可用:   3,368 MB
+页面文件: 使用中: 576 MB
+页面文件位置:     C:\pagefile.sys
+域:               lab.com
+登录服务器:       \\BIGBROTH-Q2F040
+修补程序:         安装了 1 个修补程序。
+                  [01]: Q147222
+网卡:             安装了 2 个 NIC。
+                  [01]: Intel(R) PRO/1000 MT Network Connection
+                      连接名:      本地连接 2
+                      启用 DHCP:   是
+                      DHCP 服务器: 10.1.1.254
+                      IP 地址
+                      [01]: 10.1.1.128
+                  [02]: Intel(R) PRO/1000 MT Network Connection
+                      连接名:      本地连接 3
+                      启用 DHCP:   否
+                      IP 地址
+                      [01]: 192.168.232.132
+
+主机名:           BIGBROTH-Q2F040
+OS 名称:          Microsoft(R) Windows(R) Server 2003, Standard Edition
+OS 版本:          5.2.3790 Service Pack 1 Build 3790
+OS 制造商:        Microsoft Corporation
+OS 配置:          主域控制器
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     BigBrother
+注册的组织:       
+产品 ID:          69819-640-9722366-45659
+初始安装日期:     2018-3-2, 10:33:15
+系统启动时间:     0 天 0 小时 27 分 9 秒
+系统制造商:       VMware, Inc.
+系统型号:         VMware Virtual Platform
+系统类型:         X86-based PC
+处理器:           安装了 4 个处理器。
+                  [01]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+                  [02]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+                  [03]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+                  [04]: x86 Family 6 Model 158 Stepping 9 GenuineIntel ~2501 Mhz
+BIOS 版本:        INTEL  - 6040000
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (GMT+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     2,047 MB
+可用的物理内存:   1,513 MB
+页面文件: 最大值: 3,944 MB
+页面文件: 可用:   3,373 MB
+页面文件: 使用中: 571 MB
+页面文件位置:     C:\pagefile.sys
+域:               lab.com
+登录服务器:       \\BIGBROTH-Q2F040
+修补程序:         安装了 1 个修补程序。
+                  [01]: Q147222
+网卡:             安装了 2 个 NIC。
+                  [01]: Intel(R) PRO/1000 MT Network Connection
+                      连接名:      本地连接 2
+                      启用 DHCP:   是
+                      DHCP 服务器: 10.1.1.254
+                      IP 地址
+                      [01]: 10.1.1.128
+                  [02]: Intel(R) PRO/1000 MT Network Connection
+                      连接名:      本地连接 3
+                      启用 DHCP:   否
+                      IP 地址
+                      [01]: 192.168.232.132
